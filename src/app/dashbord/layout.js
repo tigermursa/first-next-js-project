@@ -1,11 +1,12 @@
 import React from "react";
+import Sidebar from "./Sidebar";
 
 const DashboardLayout = ({ children }) => {
   return (
-    <div>
-      {" "}
-          <div>A Sidebar</div>
-          {children}
+    <div className="flex container mx-auto">
+      <div></div>
+      <Sidebar/>
+      {children}
     </div>
   );
 };
