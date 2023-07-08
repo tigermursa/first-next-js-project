@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import React from 'react';
+import NavLink from '../components/NavLink';
 const navLinks = [
  
     {
@@ -27,7 +28,7 @@ const Sidebar = () => {
             <ul>
                 {
                     navLinks.map(({ path, title }) => <li key={path} className='hover:text-red-700'>
-                        <Link href={path}>{title}</Link></li>)
+                        <NavLink exact activeClassName="text-red-500" href={path}>{title}</NavLink></li>)
                 }
             </ul>
             
