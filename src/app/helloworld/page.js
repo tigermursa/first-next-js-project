@@ -1,9 +1,9 @@
 import React from 'react';
 
-const HelloWorld = () => {
+const HelloWorld = ({params}) => {
     return (
         <div>
-            <p>Hello world I am so serious about next js </p>
+          <div>singleblog {year || new Date().getFullYear()} for {id}</div>;
         </div>
     );
 };

@@ -1,0 +1,33 @@
+1.React framework
+2.NEXT JS is a Full -stack Framework
+3.Powerful Rust-bsed js tooling for the fastest builds
+4.Built-in Optimizations
+5.Dynamic HTML Streaming
+6.React server components
+7.Optimized Data fetching
+8.Node and Edge Runtime
+9.Folder.file based Routing
+10.Middlewear
+11.Pre Rendering, Client Side Rendering
+12.CSR = Pura HTML ashbe na , ekta Block ashbe,Render hobe browserer vitor
+13.CSR NOT SEO friendly
+14.static site generation
+15.Next je by defult ssg hoy
+16.Server Side Rendering , Requesting er por staticly html file dibe
+17.CSR + SSR = ISR Incrremental Static Regeneration
+18.Hydration , HTML ASHAR POR client sidea dhore dhore event add krahoy
+19.use of @/src
+20.Layout.js
+21.Page.js
+22.foldername is route , file must be page.js
+23. meta data for title for every page
+24.[id] >page.js dynamic route
+25.[...id] catch all route / [...segments]
+26.[[...segments]]  optional catch all routes (ager routes dhrte prbe)
+27.tamplate.js and layout.js chashto vai.
+28.tamplate bar bar page route change e rerander kore layout kore na.
+29.(with-layout) = creating groupe , then layout.js
+30.not-found.js and boom not found created! now style it
+31.localhost bar bar relad nay
+32.
+ 
