@@ -73,10 +73,11 @@ Start OF PARt -2
 14.export const revalidate = 5 ;  5 sec por revalidate hobe;
 15.Documentation porte hobe to know more system .
 16.promise.all
-17.suspense data tag
+17.suspense ekta components .er vitor fall back diye tar vitor loading set kora jay
 18.fetch na korew catch kora jay
 19.wait function joss 
-20.
+20.react loading skeleton 
+21.
 
 
 
