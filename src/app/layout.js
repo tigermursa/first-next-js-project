@@ -12,7 +12,7 @@ export const metadata = {
 };
 
 const RootLayout = ({ children }) => {
-  console.log("from rooootlayout");
+ 
   return (
     <html lang="en">
       <body className={inter.className}>{children}</body>
@@ -21,3 +21,4 @@ const RootLayout = ({ children }) => {
 };
 
 export default RootLayout;
+  

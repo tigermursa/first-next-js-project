@@ -1,24 +1,25 @@
-1.React framework
-2.NEXT JS is a Full -stack Framework
-3.Powerful Rust-bsed js tooling for the fastest builds
+{Part-1 1 to 6}
+1.React is a  framework
+2.NEXT JS is a Full -stack Framework 
+3.Powerful Rust-based js tooling for the fastest builds
 4.Built-in Optimizations
 5.Dynamic HTML Streaming
 6.React server components
 7.Optimized Data fetching
 8.Node and Edge Runtime
-9.Folder.file based Routing
-10.Middlewear
+9.Folder adn file based Routing ....
+10.Middleware,
 11.Pre Rendering, Client Side Rendering
-12.CSR = Pura HTML ashbe na , ekta Block ashbe,Render hobe browserer vitor
+12.CSR = not full HTML given , one Block given,Render will happen in browser.
 13.CSR NOT SEO friendly
 14.static site generation
-15.Next je by defult ssg hoy
-16.Server Side Rendering , Requesting er por staticly html file dibe
-17.CSR + SSR = ISR Incrremental Static Regeneration
-18.Hydration , HTML ASHAR POR client sidea dhore dhore event add krahoy
+15.Next jx by default ssg 
+16.Server Side Rendering , Requesting er por static html file given
+17.CSR + SSR = ISR Incremental Static Regeneration
+18.Hydration , HTML come and client site  does event adding
 19.use of @/src
-20.Layout.js
-21.Page.js
+20.Layout.js important
+21.Page.js important 
 22.foldername is route , file must be page.js
 23. meta data for title for every page
 24.[id] >page.js dynamic route
@@ -28,6 +29,41 @@
 28.tamplate bar bar page route change e rerander kore layout kore na.
 29.(with-layout) = creating groupe , then layout.js
 30.not-found.js and boom not found created! now style it
-31.localhost bar bar relad nay
-32.
+31.localhost bar bar reload  nay changes dhar jnno
+{ part-1, 7 to 11}
  
+32.Navbar guli first a path and name variable bniye map kore bnojay 
+33.React Server Component( only server e run kore)
+34.Best benefits of server.
+35.react server code client e jabe na tai bundle size reduce hoy.
+36.database connect kra jabe.
+37.React Client Component ( Interactivity er jnno ,usestate useeffect use kora jay, web api local Storage)
+38.RS = backend , api keys,large dependencies,
+39.RC = Interactivity,lifecycle = useEffect,only browser API,custom hooks,class components
+40.Pura page server components hobe , Interactivity lagle client component use hobe server component er mddhome call kore.
+41.client component banabr jonno top e use client likhte hobe 
+42.client componenet er vitor server component import kora jabe na
+43.server only
+44.clint e context use kora hobe.
+45.usePathname hooks
+46.utils e classnames,js 
+47.exact by defult false
+48.segments.split("/") array akare pwar jnno
+49.replace back diye jawar jnno
+50.back() onstep back kore
+51.suspense tag diye rep  = statically rerander (bujhinai)
+52.video 11 font er jnno . google or tailwind fonts
+
+
+
+Start OF PARt -2 
+1.<Image width={600} height={374} placeholder="blur" src={image2}> image webp te load kore;
+2.Link image use korte Next.config korte hoy; server restart
+3.responsive er jnno size use kora jay;
+4.data fetching :
+5.cache:force chash dile statically generate hobe / no-cache dile dynamic
+6.revaliting data
+7.json server npm . json re server bniye fele
+8.package.json e giye server  ( json-server --watch src/db.json --port 5000) then npm server
+9.84 video important for fetchng thin and compo management er jnno ###
+10.
