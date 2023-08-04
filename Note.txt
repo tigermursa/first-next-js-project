@@ -81,6 +81,8 @@ Start OF PARt -2
 22.error.js
 23. modal er kaj dailog e
 24.84-8 e data patch kore dkhno hoise wow!
+25.router.refresh() , server site ekta refresh mare
+26.
 
 
 
