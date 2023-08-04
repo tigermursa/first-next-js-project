@@ -84,7 +84,9 @@ Start OF PARt -2
 25.router.refresh() , server site ekta refresh mare
 26.useTramsition hook;
 27.84-9 er shuru te setloading tha thik korse
-28.
+28.swr hook tanstack query ja kore tai kore 
+29.mutate() 
+30
 
 
 
