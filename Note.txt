@@ -69,4 +69,4 @@ Start OF PARt -2
 10.revalidating data 2 type , bg revalidating and on demand ,
 11.on demand bar bar revalidate hobe na jokhn dorker tokhni hobe
 12. export const revalidate = false ; dile static generate hobe
-13
+13.export const revalidate = 0 ; dile server site / dynamic generate hobe 
