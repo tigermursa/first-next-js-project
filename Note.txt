@@ -66,4 +66,6 @@ Start OF PARt -2
 7.json server npm . json re server bniye fele
 8.package.json e giye server  ( json-server --watch src/db.json --port 5000) then npm server
 9.84-4 video important for fetchng thin and compo management er jnno ###
-10.
+10.revalidating data 2 type , bg revalidating and on demand ,
+11.on demand bar bar revalidate hobe na jokhn dorker tokhni hobe
+12.
