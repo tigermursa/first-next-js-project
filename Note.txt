@@ -65,5 +65,5 @@ Start OF PARt -2
 6.revaliting data
 7.json server npm . json re server bniye fele
 8.package.json e giye server  ( json-server --watch src/db.json --port 5000) then npm server
-9.84 video important for fetchng thin and compo management er jnno ###
+9.84-4 video important for fetchng thin and compo management er jnno ###
 10.
