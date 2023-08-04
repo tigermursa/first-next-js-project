@@ -77,7 +77,10 @@ Start OF PARt -2
 18.fetch na korew catch kora jay
 19.wait function joss 
 20.react loading skeleton 
-21.
+21.loading.js
+22.error.js
+23. modal er kaj dailog e
+24.84-8 e data patch kore dkhno hoise wow!
 
 
 
