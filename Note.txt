@@ -80,9 +80,11 @@ Start OF PARt -2
 21.loading.js
 22.error.js
 23. modal er kaj dailog e
-24.84-8 e data patch kore dkhno hoise wow!
+24.84-8 e data patch kore dkhno hoise wow! and delete 
 25.router.refresh() , server site ekta refresh mare
-26.
+26.useTramsition hook;
+27.84-9 er shuru te setloading tha thik korse
+28.
 
 
 
