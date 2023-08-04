@@ -68,4 +68,5 @@ Start OF PARt -2
 9.84-4 video important for fetchng thin and compo management er jnno ###
 10.revalidating data 2 type , bg revalidating and on demand ,
 11.on demand bar bar revalidate hobe na jokhn dorker tokhni hobe
-12.
+12. export const revalidate = false ; dile static generate hobe
+13
