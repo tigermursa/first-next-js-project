@@ -71,5 +71,9 @@ Start OF PARt -2
 12. export const revalidate = false ; dile static generate hobe
 13.export const revalidate = 0 ; dile server site / dynamic generate hobe 
 14.export const revalidate = 5 ;  5 sec por revalidate hobe;
-15.
+15.Documentation porte hobe to know more system .
+16.promise.all
+17.suspense data tag
+
+
 
